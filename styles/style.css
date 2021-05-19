@@ -122,7 +122,7 @@
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
-  margin-top: 30px;
+  margin: 30px 0 0 0;
 }
 
 .digits {
@@ -181,10 +181,6 @@
   margin: 20px 0 0 0;
 }
 
-.table__text_info {
-  margin-top: 20px;
-}
-
 .feynman {
   min-height: 790px;
   position: relative;
@@ -202,6 +198,7 @@
   font-size: 120px;
   font-weight: bold;
   z-index: 1;
+  margin: 100px 0 0 0;
 }
 
 .feynman__subtitle {
@@ -343,7 +340,6 @@
 }
 
 .footer__author {
-  bottom: 0;
   color: white;
   margin: 18px 0 18px 0;
   line-height: 25px;
